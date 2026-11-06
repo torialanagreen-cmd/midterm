@@ -1,0 +1,16 @@
+Location,Sum of Total Spent,Count of Transaction ID
+ERROR,3103,347
+In-store,27075.5,3017
+Takeaway,26398.5,3021
+UKNOWN,12,2
+UNKNONWN,16,1
+UNKNOWN,32004,3596
+UNKOWN,9,1
+(blank),137.5,15
+Grand Total,88755.5,10000
+,,
+,,
+,,
+,,
+,,
+"Business Question: Which generates the most revenue: in-store, takeway or other?",,
